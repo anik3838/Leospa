@@ -1,0 +1,28 @@
+@media(max-width:576px){
+    .team{
+        height: 360vh;
+        text-align: center;
+    }
+    .man {
+        padding-bottom: 22%;
+    }
+   .man img{
+
+        width: 50%;
+    }
+    .man {
+        padding-bottom: 54%;
+    }
+    .info2 h4 {
+        padding:0px;
+        margin-top: -35px;
+      
+    }
+    footer ul {
+
+        margin-left: -55px;
+    }
+    .address {
+        justify-content: center;
+    }
+}
